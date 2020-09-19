@@ -14,5 +14,3 @@ if status == 0:
     print("OS launched {}".format(osname))
 else:
     print("error {}".format(result))
-    okay
-    
