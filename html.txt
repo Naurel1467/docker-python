@@ -1,0 +1,7 @@
+<form action="http://priveateip/cgi/dockerrun.py"> #by using this address a user can access the dockerrun code form webbrowser to do this we must have webserver installed in it.
+Enter OS name <input type = 'text' name = 'x' /> 
+<br />
+Enter ur OS image name: <input type = 'text' name = 'i' />
+<br />
+<input type = 'submit' />
+<form>
